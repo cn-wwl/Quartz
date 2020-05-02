@@ -1,0 +1,17 @@
+D:\Code\Demo\QuartzDemo\obj\Debug\QuartzDemo.csprojAssemblyReference.cache
+D:\Code\Demo\QuartzDemo\obj\Debug\QuartzDemo.csproj.CoreCompileInputs.cache
+D:\Code\Demo\QuartzDemo\bin\Debug\QuartzDemo.exe.config
+D:\Code\Demo\QuartzDemo\bin\Debug\QuartzDemo.exe
+D:\Code\Demo\QuartzDemo\bin\Debug\QuartzDemo.pdb
+D:\Code\Demo\QuartzDemo\bin\Debug\Common.Logging.Core.dll
+D:\Code\Demo\QuartzDemo\bin\Debug\Common.Logging.dll
+D:\Code\Demo\QuartzDemo\bin\Debug\Quartz.dll
+D:\Code\Demo\QuartzDemo\bin\Debug\Common.Logging.pdb
+D:\Code\Demo\QuartzDemo\bin\Debug\Common.Logging.xml
+D:\Code\Demo\QuartzDemo\bin\Debug\Common.Logging.Core.pdb
+D:\Code\Demo\QuartzDemo\bin\Debug\Common.Logging.Core.xml
+D:\Code\Demo\QuartzDemo\bin\Debug\Quartz.pdb
+D:\Code\Demo\QuartzDemo\bin\Debug\Quartz.xml
+D:\Code\Demo\QuartzDemo\obj\Debug\QuartzDemo.csproj.CopyComplete
+D:\Code\Demo\QuartzDemo\obj\Debug\QuartzDemo.exe
+D:\Code\Demo\QuartzDemo\obj\Debug\QuartzDemo.pdb
